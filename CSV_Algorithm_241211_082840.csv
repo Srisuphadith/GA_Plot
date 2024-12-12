@@ -1,0 +1,865 @@
+Algorithms,MaxCost,TimeTaken,Parameters
+BruteForce,228,0.000000,5
+DecreaseAndConquer,228,0.000000,5
+DivideAndConquer,228,0.000000,5
+TransformAndConquer,228,0.000000,5
+SpaceAndTimeTradeOffs,228,0.000000,5
+DynamicProgramming,228,0.000000,5
+IterativeImprovement,228,0.000000,5
+Greedy,228,0.000000,5
+GeneticAlgorithm,228,0.089000,5
+BruteForce,133,0.000000,6
+DecreaseAndConquer,133,0.000000,6
+DivideAndConquer,133,0.000000,6
+TransformAndConquer,133,0.000000,6
+SpaceAndTimeTradeOffs,133,0.000000,6
+DynamicProgramming,133,0.000000,6
+IterativeImprovement,133,0.000000,6
+Greedy,133,0.000000,6
+GeneticAlgorithm,133,0.092000,6
+BruteForce,178,0.000000,7
+DecreaseAndConquer,178,0.000000,7
+DivideAndConquer,178,0.000000,7
+TransformAndConquer,178,0.000000,7
+SpaceAndTimeTradeOffs,178,0.000000,7
+DynamicProgramming,178,0.000000,7
+IterativeImprovement,178,0.000000,7
+Greedy,178,0.000000,7
+GeneticAlgorithm,178,0.096000,7
+BruteForce,266,0.000000,8
+DecreaseAndConquer,266,0.000000,8
+DivideAndConquer,266,0.000000,8
+TransformAndConquer,266,0.000000,8
+SpaceAndTimeTradeOffs,266,0.000000,8
+DynamicProgramming,266,0.001000,8
+IterativeImprovement,266,0.000000,8
+Greedy,266,0.000000,8
+GeneticAlgorithm,266,0.101000,8
+BruteForce,267,0.000000,9
+DecreaseAndConquer,267,0.000000,9
+DivideAndConquer,267,0.000000,9
+TransformAndConquer,267,0.000000,9
+SpaceAndTimeTradeOffs,267,0.000000,9
+DynamicProgramming,267,0.000000,9
+IterativeImprovement,267,0.000000,9
+Greedy,267,0.000000,9
+GeneticAlgorithm,267,0.105000,9
+BruteForce,231,0.000000,10
+DecreaseAndConquer,231,0.000000,10
+DivideAndConquer,231,0.000000,10
+TransformAndConquer,231,0.000000,10
+SpaceAndTimeTradeOffs,231,0.000000,10
+DynamicProgramming,231,0.000000,10
+IterativeImprovement,231,0.000000,10
+Greedy,231,0.000000,10
+GeneticAlgorithm,231,0.104000,10
+BruteForce,430,0.000000,11
+DecreaseAndConquer,430,0.000000,11
+DivideAndConquer,430,0.000000,11
+TransformAndConquer,430,0.000000,11
+SpaceAndTimeTradeOffs,430,0.000000,11
+DynamicProgramming,430,0.000000,11
+IterativeImprovement,430,0.000000,11
+Greedy,430,0.000000,11
+GeneticAlgorithm,430,0.102000,11
+BruteForce,389,0.000000,12
+DecreaseAndConquer,389,0.000000,12
+DivideAndConquer,389,0.000000,12
+TransformAndConquer,389,0.000000,12
+SpaceAndTimeTradeOffs,389,0.000000,12
+DynamicProgramming,389,0.000000,12
+IterativeImprovement,389,0.000000,12
+Greedy,389,0.000000,12
+GeneticAlgorithm,389,0.102000,12
+BruteForce,409,0.001000,13
+DecreaseAndConquer,409,0.000000,13
+DivideAndConquer,409,0.000000,13
+TransformAndConquer,409,0.000000,13
+SpaceAndTimeTradeOffs,409,0.000000,13
+DynamicProgramming,409,0.001000,13
+IterativeImprovement,409,0.000000,13
+Greedy,409,0.000000,13
+GeneticAlgorithm,409,0.107000,13
+BruteForce,488,0.001000,14
+DecreaseAndConquer,488,0.000000,14
+DivideAndConquer,488,0.001000,14
+TransformAndConquer,488,0.000000,14
+SpaceAndTimeTradeOffs,488,0.000000,14
+DynamicProgramming,488,0.000000,14
+IterativeImprovement,488,0.000000,14
+Greedy,488,0.000000,14
+GeneticAlgorithm,488,0.110000,14
+BruteForce,452,0.002000,15
+DecreaseAndConquer,452,0.000000,15
+DivideAndConquer,452,0.000000,15
+TransformAndConquer,452,0.000000,15
+SpaceAndTimeTradeOffs,452,0.001000,15
+DynamicProgramming,452,0.000000,15
+IterativeImprovement,452,0.000000,15
+Greedy,452,0.000000,15
+GeneticAlgorithm,452,0.111000,15
+BruteForce,627,0.004000,16
+DecreaseAndConquer,627,0.001000,16
+DivideAndConquer,627,0.000000,16
+TransformAndConquer,627,0.000000,16
+SpaceAndTimeTradeOffs,627,0.000000,16
+DynamicProgramming,627,0.000000,16
+IterativeImprovement,627,0.000000,16
+Greedy,627,0.000000,16
+GeneticAlgorithm,627,0.119000,16
+BruteForce,462,0.009000,17
+DecreaseAndConquer,462,0.001000,17
+DivideAndConquer,462,0.001000,17
+TransformAndConquer,462,0.000000,17
+SpaceAndTimeTradeOffs,462,0.000000,17
+DynamicProgramming,462,0.000000,17
+IterativeImprovement,462,0.000000,17
+Greedy,462,0.000000,17
+GeneticAlgorithm,462,0.121000,17
+BruteForce,631,0.020000,18
+DecreaseAndConquer,631,0.001000,18
+DivideAndConquer,631,0.001000,18
+TransformAndConquer,631,0.000000,18
+SpaceAndTimeTradeOffs,631,0.000000,18
+DynamicProgramming,631,0.000000,18
+IterativeImprovement,631,0.000000,18
+Greedy,631,0.000000,18
+GeneticAlgorithm,631,0.120000,18
+BruteForce,711,0.038000,19
+DecreaseAndConquer,711,0.003000,19
+DivideAndConquer,711,0.002000,19
+TransformAndConquer,711,0.000000,19
+SpaceAndTimeTradeOffs,711,0.000000,19
+DynamicProgramming,711,0.000000,19
+IterativeImprovement,711,0.000000,19
+Greedy,711,0.000000,19
+GeneticAlgorithm,711,0.124000,19
+BruteForce,732,0.081000,20
+DecreaseAndConquer,732,0.005000,20
+DivideAndConquer,732,0.006000,20
+TransformAndConquer,732,0.000000,20
+SpaceAndTimeTradeOffs,732,0.000000,20
+DynamicProgramming,732,0.001000,20
+IterativeImprovement,732,0.000000,20
+Greedy,732,0.000000,20
+GeneticAlgorithm,732,0.125000,20
+BruteForce,762,0.167000,21
+DecreaseAndConquer,762,0.010000,21
+DivideAndConquer,762,0.011000,21
+TransformAndConquer,762,0.000000,21
+SpaceAndTimeTradeOffs,762,0.000000,21
+DynamicProgramming,762,0.000000,21
+IterativeImprovement,762,0.000000,21
+Greedy,762,0.000000,21
+GeneticAlgorithm,762,0.128000,21
+BruteForce,959,0.345000,22
+DecreaseAndConquer,959,0.021000,22
+DivideAndConquer,959,0.023000,22
+TransformAndConquer,959,0.000000,22
+SpaceAndTimeTradeOffs,959,0.000000,22
+DynamicProgramming,959,0.000000,22
+IterativeImprovement,959,0.000000,22
+Greedy,959,0.000000,22
+GeneticAlgorithm,959,0.133000,22
+BruteForce,682,0.700000,23
+DecreaseAndConquer,682,0.042000,23
+DivideAndConquer,682,0.042000,23
+TransformAndConquer,682,0.000000,23
+SpaceAndTimeTradeOffs,682,0.000000,23
+DynamicProgramming,682,0.000000,23
+IterativeImprovement,682,0.000000,23
+Greedy,682,0.000000,23
+GeneticAlgorithm,682,0.131000,23
+BruteForce,1049,1.421000,24
+DecreaseAndConquer,1049,0.084000,24
+DivideAndConquer,1049,0.085000,24
+TransformAndConquer,1049,0.000000,24
+SpaceAndTimeTradeOffs,1049,0.000000,24
+DynamicProgramming,1049,0.000000,24
+IterativeImprovement,1049,0.000000,24
+Greedy,1049,0.000000,24
+GeneticAlgorithm,1049,0.139000,24
+BruteForce,1575,2.952000,25
+DecreaseAndConquer,1575,0.165000,25
+DivideAndConquer,1575,0.169000,25
+TransformAndConquer,1575,0.000000,25
+SpaceAndTimeTradeOffs,1575,0.000000,25
+DynamicProgramming,1575,0.000000,25
+IterativeImprovement,1575,0.000000,25
+Greedy,1575,0.000000,25
+GeneticAlgorithm,1575,0.138000,25
+BruteForce,909,6.002000,26
+DecreaseAndConquer,909,0.332000,26
+DivideAndConquer,909,0.353000,26
+TransformAndConquer,909,0.000000,26
+SpaceAndTimeTradeOffs,909,0.000000,26
+DynamicProgramming,909,0.000000,26
+IterativeImprovement,909,0.000000,26
+Greedy,909,0.000000,26
+GeneticAlgorithm,909,0.141000,26
+BruteForce,898,12.411000,27
+DecreaseAndConquer,898,0.647000,27
+DivideAndConquer,898,0.663000,27
+TransformAndConquer,898,0.000000,27
+SpaceAndTimeTradeOffs,898,0.000000,27
+DynamicProgramming,898,0.000000,27
+IterativeImprovement,898,0.000000,27
+Greedy,898,0.000000,27
+GeneticAlgorithm,898,0.144000,27
+BruteForce,1226,26.120000,28
+DecreaseAndConquer,1226,1.604000,28
+DivideAndConquer,1226,1.603000,28
+TransformAndConquer,1226,0.000000,28
+SpaceAndTimeTradeOffs,1226,0.000000,28
+DynamicProgramming,1226,0.000000,28
+IterativeImprovement,1226,0.000000,28
+Greedy,1226,0.000000,28
+GeneticAlgorithm,1226,0.151000,28
+BruteForce,1250,55.980000,29
+DecreaseAndConquer,1250,3.152000,29
+DivideAndConquer,1250,3.073000,29
+TransformAndConquer,1250,0.000000,29
+SpaceAndTimeTradeOffs,1250,0.000000,29
+DynamicProgramming,1250,0.000000,29
+IterativeImprovement,1250,0.000000,29
+Greedy,1250,0.000000,29
+GeneticAlgorithm,1250,0.166000,29
+BruteForce,1389,108.879000,30
+DecreaseAndConquer,1389,6.504000,30
+DivideAndConquer,1389,6.525000,30
+TransformAndConquer,1389,0.000000,30
+SpaceAndTimeTradeOffs,1389,0.000000,30
+DynamicProgramming,1389,0.000000,30
+IterativeImprovement,1389,0.000000,30
+Greedy,1389,0.000000,30
+GeneticAlgorithm,1389,0.157000,30
+BruteForce,1366,253.528000,31
+DecreaseAndConquer,1366,12.332000,31
+DivideAndConquer,1366,13.209000,31
+TransformAndConquer,1366,0.000000,31
+SpaceAndTimeTradeOffs,1366,0.000000,31
+DynamicProgramming,1366,0.001000,31
+IterativeImprovement,1366,0.000000,31
+Greedy,1366,0.000000,31
+GeneticAlgorithm,1366,0.169000,31
+BruteForce,1163,504.585000,32
+DecreaseAndConquer,1163,20.904000,32
+DivideAndConquer,1163,21.452000,32
+TransformAndConquer,1163,0.000000,32
+SpaceAndTimeTradeOffs,1163,0.000000,32
+DynamicProgramming,1163,0.000000,32
+IterativeImprovement,1163,0.000000,32
+Greedy,1163,0.000000,32
+GeneticAlgorithm,1163,0.154000,32
+BruteForce,1445,956.016000,33
+DecreaseAndConquer,1445,49.480000,33
+DivideAndConquer,1445,50.628000,33
+TransformAndConquer,1445,0.000000,33
+SpaceAndTimeTradeOffs,1445,0.001000,33
+DynamicProgramming,1445,0.001000,33
+IterativeImprovement,1445,0.000000,33
+Greedy,1445,0.000000,33
+GeneticAlgorithm,1445,0.184000,33
+BruteForce,1306,2106.196000,34
+DecreaseAndConquer,1306,96.017000,34
+DivideAndConquer,1306,104.701000,34
+TransformAndConquer,1306,0.000000,34
+SpaceAndTimeTradeOffs,1306,0.000000,34
+DynamicProgramming,1306,0.000000,34
+IterativeImprovement,1306,0.000000,34
+Greedy,1306,0.000000,34
+GeneticAlgorithm,1306,0.186000,34
+BruteForce,TIMED OUT,4320.017000,35
+DecreaseAndConquer,1502,186.917000,35
+DivideAndConquer,1502,196.118000,35
+TransformAndConquer,1502,0.000000,35
+SpaceAndTimeTradeOffs,1502,0.000000,35
+DynamicProgramming,1502,0.000000,35
+IterativeImprovement,1502,0.000000,35
+Greedy,1502,0.000000,35
+GeneticAlgorithm,1502,0.173000,35
+BruteForce,TIMED OUT,-1.000000,36
+DecreaseAndConquer,1670,388.884000,36
+DivideAndConquer,1670,400.305000,36
+TransformAndConquer,1670,0.000000,36
+SpaceAndTimeTradeOffs,1670,0.000000,36
+DynamicProgramming,1670,0.001000,36
+IterativeImprovement,1670,0.000000,36
+Greedy,1670,0.000000,36
+GeneticAlgorithm,1670,0.182000,36
+BruteForce,TIMED OUT,-1.000000,37
+DecreaseAndConquer,1820,765.789000,37
+DivideAndConquer,1820,808.010000,37
+TransformAndConquer,1820,0.000000,37
+SpaceAndTimeTradeOffs,1820,0.000000,37
+DynamicProgramming,1820,0.000000,37
+IterativeImprovement,1820,0.000000,37
+Greedy,1820,0.000000,37
+GeneticAlgorithm,1820,0.212000,37
+BruteForce,TIMED OUT,-1.000000,38
+DecreaseAndConquer,1560,1499.128000,38
+DivideAndConquer,1560,1470.108000,38
+TransformAndConquer,1560,0.000000,38
+SpaceAndTimeTradeOffs,1560,0.000000,38
+DynamicProgramming,1560,0.000000,38
+IterativeImprovement,1560,0.000000,38
+Greedy,1560,0.000000,38
+GeneticAlgorithm,1560,0.165000,38
+BruteForce,TIMED OUT,-1.000000,39
+DecreaseAndConquer,TIMED OUT,2785.655000,39
+DivideAndConquer,TIMED OUT,2823.673000,39
+TransformAndConquer,1469,0.000000,39
+SpaceAndTimeTradeOffs,1469,0.001000,39
+DynamicProgramming,1469,0.000000,39
+IterativeImprovement,1469,0.000000,39
+Greedy,1469,0.000000,39
+GeneticAlgorithm,1469,0.178000,39
+BruteForce,TIMED OUT,-1.000000,40
+DecreaseAndConquer,TIMED OUT,-1.000000,40
+DivideAndConquer,TIMED OUT,-1.000000,40
+TransformAndConquer,1972,0.000000,40
+SpaceAndTimeTradeOffs,1972,0.000000,40
+DynamicProgramming,1972,0.000000,40
+IterativeImprovement,1972,0.000000,40
+Greedy,1972,0.000000,40
+GeneticAlgorithm,1972,0.178000,40
+BruteForce,TIMED OUT,-1.000000,41
+DecreaseAndConquer,TIMED OUT,-1.000000,41
+DivideAndConquer,TIMED OUT,-1.000000,41
+TransformAndConquer,1928,0.000000,41
+SpaceAndTimeTradeOffs,1928,0.000000,41
+DynamicProgramming,1928,0.001000,41
+IterativeImprovement,1928,0.000000,41
+Greedy,1928,0.000000,41
+GeneticAlgorithm,1928,0.182000,41
+BruteForce,TIMED OUT,-1.000000,42
+DecreaseAndConquer,TIMED OUT,-1.000000,42
+DivideAndConquer,TIMED OUT,-1.000000,42
+TransformAndConquer,1963,0.000000,42
+SpaceAndTimeTradeOffs,1963,0.001000,42
+DynamicProgramming,1963,0.000000,42
+IterativeImprovement,1963,0.000000,42
+Greedy,1963,0.000000,42
+GeneticAlgorithm,1963,0.188000,42
+BruteForce,TIMED OUT,-1.000000,43
+DecreaseAndConquer,TIMED OUT,-1.000000,43
+DivideAndConquer,TIMED OUT,-1.000000,43
+TransformAndConquer,2099,0.000000,43
+SpaceAndTimeTradeOffs,2099,0.000000,43
+DynamicProgramming,2099,0.001000,43
+IterativeImprovement,2099,0.000000,43
+Greedy,2099,0.000000,43
+GeneticAlgorithm,2099,0.190000,43
+BruteForce,TIMED OUT,-1.000000,44
+DecreaseAndConquer,TIMED OUT,-1.000000,44
+DivideAndConquer,TIMED OUT,-1.000000,44
+TransformAndConquer,1874,0.000000,44
+SpaceAndTimeTradeOffs,1874,0.001000,44
+DynamicProgramming,1874,0.000000,44
+IterativeImprovement,1874,0.000000,44
+Greedy,1874,0.000000,44
+GeneticAlgorithm,1874,0.191000,44
+BruteForce,TIMED OUT,-1.000000,45
+DecreaseAndConquer,TIMED OUT,-1.000000,45
+DivideAndConquer,TIMED OUT,-1.000000,45
+TransformAndConquer,1924,0.000000,45
+SpaceAndTimeTradeOffs,1924,0.000000,45
+DynamicProgramming,1924,0.000000,45
+IterativeImprovement,1924,0.000000,45
+Greedy,1924,0.000000,45
+GeneticAlgorithm,1924,0.194000,45
+BruteForce,TIMED OUT,-1.000000,46
+DecreaseAndConquer,TIMED OUT,-1.000000,46
+DivideAndConquer,TIMED OUT,-1.000000,46
+TransformAndConquer,2317,0.000000,46
+SpaceAndTimeTradeOffs,2317,0.001000,46
+DynamicProgramming,2317,0.000000,46
+IterativeImprovement,2317,0.000000,46
+Greedy,2317,0.000000,46
+GeneticAlgorithm,2317,0.208000,46
+BruteForce,TIMED OUT,-1.000000,47
+DecreaseAndConquer,TIMED OUT,-1.000000,47
+DivideAndConquer,TIMED OUT,-1.000000,47
+TransformAndConquer,2287,0.000000,47
+SpaceAndTimeTradeOffs,2287,0.001000,47
+DynamicProgramming,2287,0.001000,47
+IterativeImprovement,2287,0.000000,47
+Greedy,2287,0.000000,47
+GeneticAlgorithm,2287,0.198000,47
+BruteForce,TIMED OUT,-1.000000,48
+DecreaseAndConquer,TIMED OUT,-1.000000,48
+DivideAndConquer,TIMED OUT,-1.000000,48
+TransformAndConquer,2305,0.000000,48
+SpaceAndTimeTradeOffs,2305,0.001000,48
+DynamicProgramming,2305,0.001000,48
+IterativeImprovement,2305,0.000000,48
+Greedy,2305,0.000000,48
+GeneticAlgorithm,2305,0.201000,48
+BruteForce,TIMED OUT,-1.000000,49
+DecreaseAndConquer,TIMED OUT,-1.000000,49
+DivideAndConquer,TIMED OUT,-1.000000,49
+TransformAndConquer,2623,0.000000,49
+SpaceAndTimeTradeOffs,2623,0.000000,49
+DynamicProgramming,2623,0.001000,49
+IterativeImprovement,2623,0.000000,49
+Greedy,2623,0.000000,49
+GeneticAlgorithm,2623,0.197000,49
+BruteForce,TIMED OUT,-1.000000,50
+DecreaseAndConquer,TIMED OUT,-1.000000,50
+DivideAndConquer,TIMED OUT,-1.000000,50
+TransformAndConquer,5825,0.000000,50
+SpaceAndTimeTradeOffs,5825,0.001000,50
+DynamicProgramming,5825,0.000000,50
+IterativeImprovement,5825,0.000000,50
+Greedy,5825,0.000000,50
+GeneticAlgorithm,5825,0.207000,50
+BruteForce,TIMED OUT,-1.000000,51
+DecreaseAndConquer,TIMED OUT,-1.000000,51
+DivideAndConquer,TIMED OUT,-1.000000,51
+TransformAndConquer,2274,0.000000,51
+SpaceAndTimeTradeOffs,2274,0.000000,51
+DynamicProgramming,2274,0.001000,51
+IterativeImprovement,2274,0.000000,51
+Greedy,2274,0.000000,51
+GeneticAlgorithm,2274,0.206000,51
+BruteForce,TIMED OUT,-1.000000,52
+DecreaseAndConquer,TIMED OUT,-1.000000,52
+DivideAndConquer,TIMED OUT,-1.000000,52
+TransformAndConquer,2296,0.000000,52
+SpaceAndTimeTradeOffs,2296,0.000000,52
+DynamicProgramming,2296,0.001000,52
+IterativeImprovement,2296,0.000000,52
+Greedy,2296,0.000000,52
+GeneticAlgorithm,2296,0.210000,52
+BruteForce,TIMED OUT,-1.000000,53
+DecreaseAndConquer,TIMED OUT,-1.000000,53
+DivideAndConquer,TIMED OUT,-1.000000,53
+TransformAndConquer,2560,0.000000,53
+SpaceAndTimeTradeOffs,2560,0.000000,53
+DynamicProgramming,2560,0.001000,53
+IterativeImprovement,2560,0.000000,53
+Greedy,2560,0.000000,53
+GeneticAlgorithm,2560,0.215000,53
+BruteForce,TIMED OUT,-1.000000,54
+DecreaseAndConquer,TIMED OUT,-1.000000,54
+DivideAndConquer,TIMED OUT,-1.000000,54
+TransformAndConquer,2554,0.000000,54
+SpaceAndTimeTradeOffs,2554,0.000000,54
+DynamicProgramming,2554,0.001000,54
+IterativeImprovement,2554,0.000000,54
+Greedy,2554,0.000000,54
+GeneticAlgorithm,2554,0.220000,54
+BruteForce,TIMED OUT,-1.000000,55
+DecreaseAndConquer,TIMED OUT,-1.000000,55
+DivideAndConquer,TIMED OUT,-1.000000,55
+TransformAndConquer,2843,0.000000,55
+SpaceAndTimeTradeOffs,2843,0.000000,55
+DynamicProgramming,2843,0.001000,55
+IterativeImprovement,2843,0.000000,55
+Greedy,2843,0.000000,55
+GeneticAlgorithm,2843,0.243000,55
+BruteForce,TIMED OUT,-1.000000,56
+DecreaseAndConquer,TIMED OUT,-1.000000,56
+DivideAndConquer,TIMED OUT,-1.000000,56
+TransformAndConquer,2627,0.000000,56
+SpaceAndTimeTradeOffs,2627,0.001000,56
+DynamicProgramming,2627,0.001000,56
+IterativeImprovement,2627,0.000000,56
+Greedy,2627,0.000000,56
+GeneticAlgorithm,2627,0.236000,56
+BruteForce,TIMED OUT,-1.000000,57
+DecreaseAndConquer,TIMED OUT,-1.000000,57
+DivideAndConquer,TIMED OUT,-1.000000,57
+TransformAndConquer,2969,0.000000,57
+SpaceAndTimeTradeOffs,2969,0.001000,57
+DynamicProgramming,2969,0.001000,57
+IterativeImprovement,2969,0.000000,57
+Greedy,2969,0.000000,57
+GeneticAlgorithm,2969,0.240000,57
+BruteForce,TIMED OUT,-1.000000,58
+DecreaseAndConquer,TIMED OUT,-1.000000,58
+DivideAndConquer,TIMED OUT,-1.000000,58
+TransformAndConquer,3135,0.000000,58
+SpaceAndTimeTradeOffs,3135,0.000000,58
+DynamicProgramming,3135,0.002000,58
+IterativeImprovement,3135,0.000000,58
+Greedy,3135,0.000000,58
+GeneticAlgorithm,3135,0.235000,58
+BruteForce,TIMED OUT,-1.000000,59
+DecreaseAndConquer,TIMED OUT,-1.000000,59
+DivideAndConquer,TIMED OUT,-1.000000,59
+TransformAndConquer,3194,0.000000,59
+SpaceAndTimeTradeOffs,3194,0.001000,59
+DynamicProgramming,3194,0.001000,59
+IterativeImprovement,3194,0.000000,59
+Greedy,3194,0.000000,59
+GeneticAlgorithm,3194,0.234000,59
+BruteForce,TIMED OUT,-1.000000,60
+DecreaseAndConquer,TIMED OUT,-1.000000,60
+DivideAndConquer,TIMED OUT,-1.000000,60
+TransformAndConquer,3321,0.000000,60
+SpaceAndTimeTradeOffs,3321,0.000000,60
+DynamicProgramming,3321,0.001000,60
+IterativeImprovement,3321,0.000000,60
+Greedy,3321,0.000000,60
+GeneticAlgorithm,3321,0.231000,60
+BruteForce,TIMED OUT,-1.000000,61
+DecreaseAndConquer,TIMED OUT,-1.000000,61
+DivideAndConquer,TIMED OUT,-1.000000,61
+TransformAndConquer,3279,0.000000,61
+SpaceAndTimeTradeOffs,3279,0.000000,61
+DynamicProgramming,3279,0.001000,61
+IterativeImprovement,3279,0.000000,61
+Greedy,3279,0.000000,61
+GeneticAlgorithm,3279,0.233000,61
+BruteForce,TIMED OUT,-1.000000,62
+DecreaseAndConquer,TIMED OUT,-1.000000,62
+DivideAndConquer,TIMED OUT,-1.000000,62
+TransformAndConquer,3974,0.000000,62
+SpaceAndTimeTradeOffs,3974,0.000000,62
+DynamicProgramming,3974,0.001000,62
+IterativeImprovement,3974,0.000000,62
+Greedy,3974,0.000000,62
+GeneticAlgorithm,3974,0.238000,62
+BruteForce,TIMED OUT,-1.000000,63
+DecreaseAndConquer,TIMED OUT,-1.000000,63
+DivideAndConquer,TIMED OUT,-1.000000,63
+TransformAndConquer,3384,0.000000,63
+SpaceAndTimeTradeOffs,3384,0.000000,63
+DynamicProgramming,3384,0.002000,63
+IterativeImprovement,3384,0.000000,63
+Greedy,3384,0.000000,63
+GeneticAlgorithm,3384,0.240000,63
+BruteForce,TIMED OUT,-1.000000,64
+DecreaseAndConquer,TIMED OUT,-1.000000,64
+DivideAndConquer,TIMED OUT,-1.000000,64
+TransformAndConquer,3683,0.000000,64
+SpaceAndTimeTradeOffs,3683,0.000000,64
+DynamicProgramming,3683,0.002000,64
+IterativeImprovement,3683,0.001000,64
+Greedy,3683,0.000000,64
+GeneticAlgorithm,3683,0.234000,64
+BruteForce,TIMED OUT,-1.000000,65
+DecreaseAndConquer,TIMED OUT,-1.000000,65
+DivideAndConquer,TIMED OUT,-1.000000,65
+TransformAndConquer,3398,0.000000,65
+SpaceAndTimeTradeOffs,3398,0.001000,65
+DynamicProgramming,3398,0.001000,65
+IterativeImprovement,3398,0.000000,65
+Greedy,3398,0.000000,65
+GeneticAlgorithm,3398,0.239000,65
+BruteForce,TIMED OUT,-1.000000,66
+DecreaseAndConquer,TIMED OUT,-1.000000,66
+DivideAndConquer,TIMED OUT,-1.000000,66
+TransformAndConquer,4028,0.000000,66
+SpaceAndTimeTradeOffs,4028,0.000000,66
+DynamicProgramming,4028,0.001000,66
+IterativeImprovement,4028,0.000000,66
+Greedy,4028,0.000000,66
+GeneticAlgorithm,4028,0.239000,66
+BruteForce,TIMED OUT,-1.000000,67
+DecreaseAndConquer,TIMED OUT,-1.000000,67
+DivideAndConquer,TIMED OUT,-1.000000,67
+TransformAndConquer,4046,0.000000,67
+SpaceAndTimeTradeOffs,4046,0.001000,67
+DynamicProgramming,4046,0.002000,67
+IterativeImprovement,4046,0.000000,67
+Greedy,4046,0.000000,67
+GeneticAlgorithm,4046,0.325000,67
+BruteForce,TIMED OUT,-1.000000,68
+DecreaseAndConquer,TIMED OUT,-1.000000,68
+DivideAndConquer,TIMED OUT,-1.000000,68
+TransformAndConquer,4417,0.000000,68
+SpaceAndTimeTradeOffs,4417,0.001000,68
+DynamicProgramming,4417,0.001000,68
+IterativeImprovement,4417,0.000000,68
+Greedy,4417,0.000000,68
+GeneticAlgorithm,4417,0.324000,68
+BruteForce,TIMED OUT,-1.000000,69
+DecreaseAndConquer,TIMED OUT,-1.000000,69
+DivideAndConquer,TIMED OUT,-1.000000,69
+TransformAndConquer,4221,0.000000,69
+SpaceAndTimeTradeOffs,4220,0.000000,69
+DynamicProgramming,4220,0.002000,69
+IterativeImprovement,4220,0.001000,69
+Greedy,4202,0.000000,69
+GeneticAlgorithm,4217,0.330000,69
+BruteForce,TIMED OUT,-1.000000,70
+DecreaseAndConquer,TIMED OUT,-1.000000,70
+DivideAndConquer,TIMED OUT,-1.000000,70
+TransformAndConquer,3971,0.000000,70
+SpaceAndTimeTradeOffs,3971,0.000000,70
+DynamicProgramming,3971,0.001000,70
+IterativeImprovement,3971,0.000000,70
+Greedy,3966,0.000000,70
+GeneticAlgorithm,3971,0.336000,70
+BruteForce,TIMED OUT,-1.000000,71
+DecreaseAndConquer,TIMED OUT,-1.000000,71
+DivideAndConquer,TIMED OUT,-1.000000,71
+TransformAndConquer,4881,0.000000,71
+SpaceAndTimeTradeOffs,4881,0.001000,71
+DynamicProgramming,4881,0.001000,71
+IterativeImprovement,4881,0.000000,71
+Greedy,4881,0.000000,71
+GeneticAlgorithm,4881,0.269000,71
+BruteForce,TIMED OUT,-1.000000,72
+DecreaseAndConquer,TIMED OUT,-1.000000,72
+DivideAndConquer,TIMED OUT,-1.000000,72
+TransformAndConquer,4557,0.000000,72
+SpaceAndTimeTradeOffs,4554,0.001000,72
+DynamicProgramming,4554,0.002000,72
+IterativeImprovement,4554,0.000000,72
+Greedy,4540,0.000000,72
+GeneticAlgorithm,4554,0.268000,72
+BruteForce,TIMED OUT,-1.000000,73
+DecreaseAndConquer,TIMED OUT,-1.000000,73
+DivideAndConquer,TIMED OUT,-1.000000,73
+TransformAndConquer,4352,0.000000,73
+SpaceAndTimeTradeOffs,4352,0.001000,73
+DynamicProgramming,4352,0.002000,73
+IterativeImprovement,4352,0.000000,73
+Greedy,4352,0.000000,73
+GeneticAlgorithm,4352,0.267000,73
+BruteForce,TIMED OUT,-1.000000,74
+DecreaseAndConquer,TIMED OUT,-1.000000,74
+DivideAndConquer,TIMED OUT,-1.000000,74
+TransformAndConquer,4739,0.000000,74
+SpaceAndTimeTradeOffs,4734,0.001000,74
+DynamicProgramming,4734,0.001000,74
+IterativeImprovement,4731,0.000000,74
+Greedy,4723,0.000000,74
+GeneticAlgorithm,4731,0.276000,74
+BruteForce,TIMED OUT,-1.000000,75
+DecreaseAndConquer,TIMED OUT,-1.000000,75
+DivideAndConquer,TIMED OUT,-1.000000,75
+TransformAndConquer,4856,0.000000,75
+SpaceAndTimeTradeOffs,4844,0.001000,75
+DynamicProgramming,4844,0.002000,75
+IterativeImprovement,4844,0.000000,75
+Greedy,4788,0.000000,75
+GeneticAlgorithm,4844,0.269000,75
+BruteForce,TIMED OUT,-1.000000,76
+DecreaseAndConquer,TIMED OUT,-1.000000,76
+DivideAndConquer,TIMED OUT,-1.000000,76
+TransformAndConquer,5206,0.000000,76
+SpaceAndTimeTradeOffs,5206,0.001000,76
+DynamicProgramming,5206,0.002000,76
+IterativeImprovement,5206,0.000000,76
+Greedy,5206,0.000000,76
+GeneticAlgorithm,5206,0.274000,76
+BruteForce,TIMED OUT,-1.000000,77
+DecreaseAndConquer,TIMED OUT,-1.000000,77
+DivideAndConquer,TIMED OUT,-1.000000,77
+TransformAndConquer,5046,0.000000,77
+SpaceAndTimeTradeOffs,5044,0.001000,77
+DynamicProgramming,5044,0.002000,77
+IterativeImprovement,5041,0.000000,77
+Greedy,5019,0.000000,77
+GeneticAlgorithm,5044,0.278000,77
+BruteForce,TIMED OUT,-1.000000,78
+DecreaseAndConquer,TIMED OUT,-1.000000,78
+DivideAndConquer,TIMED OUT,-1.000000,78
+TransformAndConquer,4969,0.000000,78
+SpaceAndTimeTradeOffs,4965,0.001000,78
+DynamicProgramming,4965,0.002000,78
+IterativeImprovement,4964,0.000000,78
+Greedy,4954,0.000000,78
+GeneticAlgorithm,4964,0.272000,78
+BruteForce,TIMED OUT,-1.000000,79
+DecreaseAndConquer,TIMED OUT,-1.000000,79
+DivideAndConquer,TIMED OUT,-1.000000,79
+TransformAndConquer,5490,0.000000,79
+SpaceAndTimeTradeOffs,5490,0.000000,79
+DynamicProgramming,5490,0.002000,79
+IterativeImprovement,5490,0.000000,79
+Greedy,5490,0.000000,79
+GeneticAlgorithm,5490,0.267000,79
+BruteForce,TIMED OUT,-1.000000,80
+DecreaseAndConquer,TIMED OUT,-1.000000,80
+DivideAndConquer,TIMED OUT,-1.000000,80
+TransformAndConquer,4949,0.000000,80
+SpaceAndTimeTradeOffs,4948,0.000000,80
+DynamicProgramming,4948,0.001000,80
+IterativeImprovement,4948,0.000000,80
+Greedy,4942,0.000000,80
+GeneticAlgorithm,4943,0.283000,80
+BruteForce,TIMED OUT,-1.000000,81
+DecreaseAndConquer,TIMED OUT,-1.000000,81
+DivideAndConquer,TIMED OUT,-1.000000,81
+TransformAndConquer,5224,0.000000,81
+SpaceAndTimeTradeOffs,5223,0.001000,81
+DynamicProgramming,5223,0.002000,81
+IterativeImprovement,5223,0.000000,81
+Greedy,5220,0.000000,81
+GeneticAlgorithm,5223,0.308000,81
+BruteForce,TIMED OUT,-1.000000,82
+DecreaseAndConquer,TIMED OUT,-1.000000,82
+DivideAndConquer,TIMED OUT,-1.000000,82
+TransformAndConquer,5427,0.000000,82
+SpaceAndTimeTradeOffs,5427,0.001000,82
+DynamicProgramming,5427,0.002000,82
+IterativeImprovement,5427,0.000000,82
+Greedy,5427,0.000000,82
+GeneticAlgorithm,5427,0.287000,82
+BruteForce,TIMED OUT,-1.000000,83
+DecreaseAndConquer,TIMED OUT,-1.000000,83
+DivideAndConquer,TIMED OUT,-1.000000,83
+TransformAndConquer,5647,0.000000,83
+SpaceAndTimeTradeOffs,5642,0.001000,83
+DynamicProgramming,5642,0.002000,83
+IterativeImprovement,5642,0.000000,83
+Greedy,5629,0.000000,83
+GeneticAlgorithm,5642,0.289000,83
+BruteForce,TIMED OUT,-1.000000,84
+DecreaseAndConquer,TIMED OUT,-1.000000,84
+DivideAndConquer,TIMED OUT,-1.000000,84
+TransformAndConquer,5685,0.000000,84
+SpaceAndTimeTradeOffs,5679,0.001000,84
+DynamicProgramming,5679,0.002000,84
+IterativeImprovement,5665,0.000000,84
+Greedy,5602,0.000000,84
+GeneticAlgorithm,5672,0.298000,84
+BruteForce,TIMED OUT,-1.000000,85
+DecreaseAndConquer,TIMED OUT,-1.000000,85
+DivideAndConquer,TIMED OUT,-1.000000,85
+TransformAndConquer,5378,0.000000,85
+SpaceAndTimeTradeOffs,5372,0.001000,85
+DynamicProgramming,5372,0.002000,85
+IterativeImprovement,5372,0.000000,85
+Greedy,5334,0.000000,85
+GeneticAlgorithm,5372,0.307000,85
+BruteForce,TIMED OUT,-1.000000,86
+DecreaseAndConquer,TIMED OUT,-1.000000,86
+DivideAndConquer,TIMED OUT,-1.000000,86
+TransformAndConquer,5959,0.000000,86
+SpaceAndTimeTradeOffs,5958,0.001000,86
+DynamicProgramming,5958,0.003000,86
+IterativeImprovement,5957,0.000000,86
+Greedy,5920,0.000000,86
+GeneticAlgorithm,5948,0.331000,86
+BruteForce,TIMED OUT,-1.000000,87
+DecreaseAndConquer,TIMED OUT,-1.000000,87
+DivideAndConquer,TIMED OUT,-1.000000,87
+TransformAndConquer,5495,0.000000,87
+SpaceAndTimeTradeOffs,5492,0.002000,87
+DynamicProgramming,5492,0.002000,87
+IterativeImprovement,5492,0.000000,87
+Greedy,5471,0.000000,87
+GeneticAlgorithm,5489,0.329000,87
+BruteForce,TIMED OUT,-1.000000,88
+DecreaseAndConquer,TIMED OUT,-1.000000,88
+DivideAndConquer,TIMED OUT,-1.000000,88
+TransformAndConquer,6025,0.000000,88
+SpaceAndTimeTradeOffs,6021,0.001000,88
+DynamicProgramming,6021,0.002000,88
+IterativeImprovement,6000,0.000000,88
+Greedy,5904,0.000000,88
+GeneticAlgorithm,6008,0.303000,88
+BruteForce,TIMED OUT,-1.000000,89
+DecreaseAndConquer,TIMED OUT,-1.000000,89
+DivideAndConquer,TIMED OUT,-1.000000,89
+TransformAndConquer,6798,0.000000,89
+SpaceAndTimeTradeOffs,6796,0.001000,89
+DynamicProgramming,6796,0.002000,89
+IterativeImprovement,6794,0.000000,89
+Greedy,6749,0.000000,89
+GeneticAlgorithm,6790,0.305000,89
+BruteForce,TIMED OUT,-1.000000,90
+DecreaseAndConquer,TIMED OUT,-1.000000,90
+DivideAndConquer,TIMED OUT,-1.000000,90
+TransformAndConquer,6035,0.000000,90
+SpaceAndTimeTradeOffs,6032,0.001000,90
+DynamicProgramming,6032,0.003000,90
+IterativeImprovement,6028,0.000000,90
+Greedy,5978,0.000000,90
+GeneticAlgorithm,6013,0.307000,90
+BruteForce,TIMED OUT,-1.000000,91
+DecreaseAndConquer,TIMED OUT,-1.000000,91
+DivideAndConquer,TIMED OUT,-1.000000,91
+TransformAndConquer,5979,0.000000,91
+SpaceAndTimeTradeOffs,5974,0.001000,91
+DynamicProgramming,5974,0.002000,91
+IterativeImprovement,5974,0.000000,91
+Greedy,5938,0.000000,91
+GeneticAlgorithm,5970,0.305000,91
+BruteForce,TIMED OUT,-1.000000,92
+DecreaseAndConquer,TIMED OUT,-1.000000,92
+DivideAndConquer,TIMED OUT,-1.000000,92
+TransformAndConquer,6172,0.000000,92
+SpaceAndTimeTradeOffs,6170,0.001000,92
+DynamicProgramming,6170,0.004000,92
+IterativeImprovement,6170,0.000000,92
+Greedy,6062,0.000000,92
+GeneticAlgorithm,6170,0.336000,92
+BruteForce,TIMED OUT,-1.000000,93
+DecreaseAndConquer,TIMED OUT,-1.000000,93
+DivideAndConquer,TIMED OUT,-1.000000,93
+TransformAndConquer,6082,0.000000,93
+SpaceAndTimeTradeOffs,6081,0.001000,93
+DynamicProgramming,6081,0.003000,93
+IterativeImprovement,6075,0.000000,93
+Greedy,6036,0.000000,93
+GeneticAlgorithm,6081,0.331000,93
+BruteForce,TIMED OUT,-1.000000,94
+DecreaseAndConquer,TIMED OUT,-1.000000,94
+DivideAndConquer,TIMED OUT,-1.000000,94
+TransformAndConquer,6295,0.000000,94
+SpaceAndTimeTradeOffs,6293,0.002000,94
+DynamicProgramming,6293,0.003000,94
+IterativeImprovement,6293,0.000000,94
+Greedy,6213,0.000000,94
+GeneticAlgorithm,6293,0.319000,94
+BruteForce,TIMED OUT,-1.000000,95
+DecreaseAndConquer,TIMED OUT,-1.000000,95
+DivideAndConquer,TIMED OUT,-1.000000,95
+TransformAndConquer,6791,0.000000,95
+SpaceAndTimeTradeOffs,6787,0.001000,95
+DynamicProgramming,6787,0.002000,95
+IterativeImprovement,6785,0.000000,95
+Greedy,6763,0.000000,95
+GeneticAlgorithm,6787,0.335000,95
+BruteForce,TIMED OUT,-1.000000,96
+DecreaseAndConquer,TIMED OUT,-1.000000,96
+DivideAndConquer,TIMED OUT,-1.000000,96
+TransformAndConquer,6543,0.000000,96
+SpaceAndTimeTradeOffs,6543,0.001000,96
+DynamicProgramming,6543,0.003000,96
+IterativeImprovement,6535,0.001000,96
+Greedy,6442,0.000000,96
+GeneticAlgorithm,6539,0.337000,96
+BruteForce,TIMED OUT,-1.000000,97
+DecreaseAndConquer,TIMED OUT,-1.000000,97
+DivideAndConquer,TIMED OUT,-1.000000,97
+TransformAndConquer,7104,0.000000,97
+SpaceAndTimeTradeOffs,7099,0.001000,97
+DynamicProgramming,7099,0.002000,97
+IterativeImprovement,7093,0.000000,97
+Greedy,6923,0.000000,97
+GeneticAlgorithm,7099,0.334000,97
+BruteForce,TIMED OUT,-1.000000,98
+DecreaseAndConquer,TIMED OUT,-1.000000,98
+DivideAndConquer,TIMED OUT,-1.000000,98
+TransformAndConquer,6991,0.000000,98
+SpaceAndTimeTradeOffs,6985,0.001000,98
+DynamicProgramming,6985,0.003000,98
+IterativeImprovement,6985,0.000000,98
+Greedy,6767,0.000000,98
+GeneticAlgorithm,6963,0.322000,98
+BruteForce,TIMED OUT,-1.000000,99
+DecreaseAndConquer,TIMED OUT,-1.000000,99
+DivideAndConquer,TIMED OUT,-1.000000,99
+TransformAndConquer,7109,0.000000,99
+SpaceAndTimeTradeOffs,7103,0.002000,99
+DynamicProgramming,7103,0.005000,99
+IterativeImprovement,7103,0.000000,99
+Greedy,7042,0.000000,99
+GeneticAlgorithm,7093,0.333000,99
+BruteForce,TIMED OUT,-1.000000,100
+DecreaseAndConquer,TIMED OUT,-1.000000,100
+DivideAndConquer,TIMED OUT,-1.000000,100
+TransformAndConquer,21928,0.000000,100
+SpaceAndTimeTradeOffs,21921,0.001000,100
+DynamicProgramming,21921,0.003000,100
+IterativeImprovement,21921,0.000000,100
+Greedy,21530,0.000000,100
+GeneticAlgorithm,21869,0.341000,100
